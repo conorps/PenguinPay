@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Penguin Pay</string>
+    <string name="new_transaction">New Transaction</string>
+    <string name="exchange_rates">Exchange Rates</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="amount">Amount</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+</resources>
